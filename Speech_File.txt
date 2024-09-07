@@ -1,0 +1,1 @@
+Acceleration is how quickly the velocity of an object changes over time. It is the rate of change of velocity with respect to time.
